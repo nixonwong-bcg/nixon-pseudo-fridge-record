@@ -1,0 +1,7 @@
+{
+  "name": "Outlet Daily Photo Uploader",
+  "description": "A web application for retail outlets to upload their daily photo for record tracking. Users select their outlet, take a picture using their device's camera, and submit it.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
